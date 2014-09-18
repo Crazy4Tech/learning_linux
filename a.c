@@ -1,6 +1,3 @@
-#include <stdio.h>
-
-
 
 int max(int i,int j){
 
@@ -18,24 +15,13 @@ void main(){
 	printf("Hello,Linux\n");
 
 	int k = max(i,j);
-	printf("the max is :%d",k);
+	int i,j;
+	printf("the max is :%d",k); 
+
+	printf("this is a test");
+
+	i=4;
+	int k = 0;
+	j=5;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
